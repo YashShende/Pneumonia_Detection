@@ -1,0 +1,10 @@
+
+Werkzeug>=0.15.3
+Flask>=1.0.0
+numpy==1.14.2
+Keras==2.1.5
+gevent==1.2.2
+pillow>=6.2.0
+h5py==2.7.0
+tensorflow>=1.12.1
+gunicorn==>=19.5.0
