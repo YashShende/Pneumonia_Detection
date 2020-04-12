@@ -7,8 +7,8 @@ from flask import Flask, request, render_template, Response, jsonify
 from gevent.pywsgi import WSGIServer
 
 # TensorFlow and tf.keras
-import tensorflow as tf
-from tensorflow import keras
+#import tensorflow as tf
+#from tensorflow import keras
 
 from tensorflow.keras.applications.imagenet_utils import preprocess_input
 from tensorflow.keras.models import load_model
