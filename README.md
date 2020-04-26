@@ -1,4 +1,4 @@
 # Pneumonia_Detection
-A Flask pneumonia detection web application 
+A Flask **pneumonia detection** web application 
 
 
