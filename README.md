@@ -7,7 +7,7 @@ A Flask **pneumonia detection** web application
 [![](https://img.shields.io/badge/Tensorflow-1.15.0-important.svg)]()
 
 
-## Settin the Web-App Locally 
+## Setting up the Web-App Locally 
 
 1. Clone The Repository or Download Zip from  <https://github.com/YashShende/Pneumonia_Detection/archive/master.zip> & Extract it.
 
