@@ -27,3 +27,8 @@ Dataset Link : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 </pre>
 
 ## WebApp 
+#### Home Page 
+![Home Page ](static/pic1.jpg)
+
+#### Prediction
+![Home Page ](static/pic4.jpg)
