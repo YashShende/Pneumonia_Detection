@@ -29,8 +29,9 @@ Dataset Link : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 #### Model 
 <pre>
 In this Project i Trained my model on Google Colab and saved model in Models Folder.
-You can put your trained model inside the Models folder to get better results jusk keep in mind the dimenssions of image feed to trained model 
-if you want to take a look how i trained my model check this link <https://del.dog/minip> :)
+You can put your trained model inside the Models folder to get better results jusk 
+keep in mind the dimenssions of image feed to trained model if you want to take a 
+look how i trained my model check this link <https://del.dog/minip> :)
 </pre>
 
 ## WebApp 
