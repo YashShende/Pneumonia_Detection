@@ -1,7 +1,7 @@
 Flask>=1.0.0
 numpy==1.22.0
 
-gevent==1.2.2
+gevent==23.9.1
 pillow>=6.2.0
 h5py==2.7.0
 tensorflow>=1.12.1
